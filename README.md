@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <video src="public/demo.mp4" controls muted playsinline style="max-width: 100%; border-radius: 16px;"></video>
+  <img src="public/demo.gif" alt="Lantern Prompter demo" style="max-width: 100%; border-radius: 16px;" />
 </p>
 
 ## Why I built this
